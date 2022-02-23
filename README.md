@@ -17,6 +17,10 @@ Open cmd in the root folder
 Give following commands:
 
     gradle clean test
+
+# Screenshots
+
+These are the snapshots of the reports:
     
     
  ![Capture](https://user-images.githubusercontent.com/78067017/155388004-357b7ba7-9971-4e29-babf-e28fb34d9e1e.PNG)
